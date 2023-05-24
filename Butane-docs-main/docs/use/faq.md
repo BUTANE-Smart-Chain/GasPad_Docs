@@ -1,48 +1,38 @@
+# Frequently Asked Questions (FAQ)
 
-# Frequently Asked Questions
+## What is GasPad?
 
-## Wallets
+GasPad is a decentralized launchpad for crypto projects. It provides a platform for users to launch their own tokens and initial token sales without any coding knowledge. 
 
-<details>
+## How does GasPad work?
 
-<summary><b>Which wallet would you recommend for Butane?</b></summary>
+GasPad allows users to design their own tokens in just a few clicks. It offers features such as automatic listing of your token on various exchanges and the ability to lock your LP, adding an optional vesting period for your tokens.
 
-There are many wallets to select from but the top wallets with the widest support is [Metamask](https://metamask.io/)
-and [Keplr](https://www.keplr.app/). Butane is an EVM chain is a DPOS and Metamask works great! Not mention Butanes User Friendly Wallet.(Coming Soon)
+## What is the GasPad token used for?
 
-</details>
+The GasPad token is used for various purposes within the GasPad ecosystem. It can be used to participate in presales, for governance voting, and to access exclusive features.
 
-<details>
+## How can I buy GasPad tokens?
 
-<summary><b>Can I use my Ledger device?</b></summary>
+You can buy GasPad tokens from various exchanges. For the most up-to-date list of exchanges, please contact [MrDevWizard](https://t.me/MrDevWizard).
 
-Absolutely! Take a look at the [Ledger](./connect-your-wallet/keplr) for more information. Metamask,
-Keplr, and WalletConnect all work with Ledger. Ledger setup will be required before engaging with the dApps and products on Butane.
+## How can I join the GasPad Elite Club?
 
-</details>
+To join the GasPad Elite Club, you must hold a minimum of 25 GasPad tokens and buy at least 1 presale per month. For more details, please contact [MrDevWizard](https://t.me/MrDevWizard).
 
-<details>
+## What is the KYC process in GasPad?
 
-<summary><b>For certain wallets, I see both bech32 and hex while others only show hex formatted addresses, which should
- I use?</b></summary>
+KYC, or Know Your Customer, is the process of identity verification at GasPad. It ensures that the person speaking to us is who they claim to be. This is achieved by submitting ID documentation to an automated platform.
 
-The Butane network supports both formats: bech32 and hex. Other EVM peers and its ecosystem uses hex encoding while
-Cosmos-native uses bech32 formatted addresses. Keplr is unique and the EVM-compatible chains shows both formats. If you
-are sending tokens (via [IBC](https://status.bbcscan.io/)), you will use bech32 formatted addresses unless
-the receiving chain support EVM (i.e. Ethermint-based chains). You can further details [here](./../protocol/concepts/accounts).
+## What is the GasPad's stance on security?
 
-</details>
+At GasPad, we prioritize the safety of our investors. We are committed to preventing scams and rugpulls, and have developed numerous features and tools to help you make informed decisions.
 
-## Onramp
+## What is the GasPad's refund policy?
 
-<details>
+By proceeding with the payment of the KYC processing fee, you agree that you shall not be entitled to a refund under any circumstances. 
 
-<summary><b>Where can I acquire Butane token?</b></summary>
+## What does the Doxx badge mean?
 
-There are several paths users can take to acquire Butane Token.
+The Doxx badge is aimed at encouraging Project Owners to put their identity behind their project. It allows for greater verification and aids in security for investors.
 
-- Decentralized Exchanges: [Flamez](https://flamez.io/)
-- [C14 Money](https://pay.c14.money/) is an onramp service
-- [Testnet Faucet](https://faucet.bbcscan.io/) dispenses a small amount of testnet tokens
-
-</details>
