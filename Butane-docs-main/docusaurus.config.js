@@ -151,18 +151,13 @@ const config = {
           },
           {
             position: 'right',
-            label: 'Tools',
-            to: '/develop/tools',
-          },
-          {
-            position: 'right',
             label: 'Services',
             to: '/develop/api/networks',
           },
           {
             position: 'right',
-            label: 'Pad',
-            to: 'https://butane.tech/',
+            label: 'LaunchPad',
+            to: 'https://gaspad.io/',
           },
         ],
       },
@@ -194,16 +189,8 @@ const config = {
                 href: 'https://t.me/butanechain',
               },
               {
-                label: 'Youtbe Academy',
-                href: 'https://www.youtube.com/@ButaneAcademy',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discord.gg/zk4t92b9MX',
-              },
-              {
-                label: 'Discord Developers',
-                href: 'https://discord.gg/je3pBf2h',
               },
               {
                 label: 'Twitter',
@@ -233,12 +220,12 @@ const config = {
       },
       metadata: [
         {
-          name: "Butane Docs", 
-          content: "Official Butane Docs. Come discover why we are the the home for native, cross-chain applications."
+          name: "GasPad Docs", 
+          content: "Official GasPad Documentation"
         },
         {
           name: "author",
-          content: "The Butane Core Team @ButaneOrg"
+          content: "The GasPad Core Team @GasPad.io"
         },
         {
           name: "keywords",
