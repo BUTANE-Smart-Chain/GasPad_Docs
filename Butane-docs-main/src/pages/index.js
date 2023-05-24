@@ -25,7 +25,7 @@ function Home() {
                 }}
                 body={{
                   label:
-                    "GasPad helps everyone to creat their own token and launch their own project on Butane",
+                    "GasPad helps everyone to create their own token and launch their own project on Butane",
                 }}
               />
 
