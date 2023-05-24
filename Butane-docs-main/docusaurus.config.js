@@ -169,15 +169,15 @@ const config = {
             items: [
               {
                 label: 'Launch on GasPad',
-                to: '/develop/smart-contracts',
+                to: '/protocol',
               },
               {
-                label: 'GasPas Trending',
-                to: '/use',
+                label: 'Audit',
+                to: '/develop/audit',
               },
               {
-                label: 'Stake BBC',
-                to: '/validate',
+                label: 'Trending',
+                to: '/develop',
               },
             ],
           },
@@ -186,15 +186,15 @@ const config = {
             items: [
               {
                 label: 'Telegram',
-                href: 'https://t.me/butanechain',
+                href: 'https://t.me/gaspadbbc',
               },
               {
                 label: 'Discord',
-                href: 'https://discord.gg/zk4t92b9MX',
+                href: 'https://discord.gg/RukjxxCmE2',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/Butane_Network',
+                href: 'https://twitter.com/gas_pad_io',
               },
             ],
           },
@@ -203,11 +203,11 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: 'https://medium.com/@butanegas101',
+                to: 'https://medium.com/@gaspadd.io',
               },
               {
                 label: 'Partner with GasPad',
-                href: 'https://github.com/BUTANE-Smart-Chain',
+                href: 'https://discord.gg/RukjxxCmE2',
               },
             ],
           },

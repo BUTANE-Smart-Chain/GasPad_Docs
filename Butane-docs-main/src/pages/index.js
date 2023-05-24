@@ -19,7 +19,7 @@ function Home() {
           <div className="container">
             <div className="row cards__container">
               <Card
-                to="./protocol/evmos-cli/single-node"
+                to="./protocol/evmos-cli"
                 header={{
                   label: "🚀 The Launchpad for Everyone",
                 }}
@@ -41,7 +41,7 @@ function Home() {
               />
 
               <Card
-                to="./validate"
+                to="./protocol/bugs"
                 header={{
                   label: "🤑 AirDrop",
                 }}
@@ -52,7 +52,7 @@ function Home() {
               />
 
               <Card
-                to="./develop/api"
+                to="./use/token"
                 header={{
                   label: "💻 Tokenomics",
                 }}
@@ -63,7 +63,7 @@ function Home() {
               />
 
               <Card
-                to="./develop/smart-contracts"
+                to="./use/services"
                 header={{
                   label: "🛠️ Service Fees",
                 }}
@@ -74,7 +74,7 @@ function Home() {
               />
 
               <Card
-                to="./protocol/security"
+                to="./develop/kyc"
                 header={{
                   label: "🛡️ KYC & Audit",
                 }}
