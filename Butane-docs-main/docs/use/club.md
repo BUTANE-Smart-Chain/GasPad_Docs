@@ -14,6 +14,7 @@ GasPad Elite Club is an exclusive members-only group created to deliver maximum 
 - (Alternative) - own a successful local group that creates buy pressure (No need to hold GasPad tokens)
 
 ## Where to Buy GasPad
-- [MrDevWizard](https://t.me/MrDevWizard)
+
+- [Flamez.io](https://flamez.io/)
 
 To join the group, please DM [MrDevWizard](https://t.me/MrDevWizard).

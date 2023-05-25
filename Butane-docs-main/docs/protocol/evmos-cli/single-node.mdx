@@ -4,3 +4,17 @@ sidebar_position: 3
 
 # Finalize a LaunchPad
 
+How to Finalize a Launchpad on GasPad
+
+If your token has fees, rewards, and max tx in the contract, you may need to exclude these functions for the presale address in order to finalize the presale pool.
+
+Here are the steps to finalize your launchpad:
+
+1. Access your contract address from a blockchain explorer like Etherscan or BscScan, or you can click on the token address on your Launchpad page on GasPad.
+2. Go to Contract -> Write Contract -> Connect to Web3 to connect your wallet. You need to use the owner address.
+3. Using the search function (Ctrl + F), search for "exclude". Then input your presale address and click on "Write". This will exclude the fee, reward, and max tx for the presale address.
+4. After clicking on the "Write" button, MetaMask will ask you to confirm the transaction. It will also show you the fee that you are required to pay for that transaction. If you agree, click on the "Confirm" button to finish the process. If you see "exclude" (bool), please input "True".
+   Note: Sometimes the contract doesn’t have "exclude" but "exempt" instead, search for "exempt", then input your presale address, then click on Write, to exclude fee, reward, max tx for the presale address.
+5. In the "Pool Actions" section, you can choose to click on "Finalize" to complete the Launchpad and list your token, or you can choose to cancel it.
+6. MetaMask will now ask you to confirm the transaction. It will also show you the fee that you are required to pay for that transaction. If you agree, then click on the "
+

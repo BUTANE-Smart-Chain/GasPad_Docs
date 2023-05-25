@@ -22,44 +22,26 @@ const sidebars = {
       items: [
         {
           type: 'link',
-          label: 'GitHub',
-          href: 'https://github.com/BUTANE-Smart-Chain',
-        },
-        {
-          type: 'link',
           label: 'Twitter',
-          href: 'https://twitter.com/Butane_Network',
+          href: 'https://twitter.com/gas_pad_io',
         },
         {
           type: 'link',
           label: 'Telegram',
-          href: 'https://t.me/butanechain',
+          href: 'https://t.me/gaspadbbc',
         },
         {
           type: 'link',
           label: 'Discord',
-          href: 'https://discord.gg/zk4t92b9MX',
+          href: 'https://discord.gg/RukjxxCmE2',
         },
-        {
-          type: 'link',
-          label: 'Discord Developer',
-          href: 'https://discord.gg/je3pBf2h',
-        },
+     
         {
           type: 'link',
           label: 'Medium',
-          href: 'https://medium.com/@butanegas101',
+          href: 'https://medium.com/@gaspadd.io',
         },
-        {
-          type: 'link',
-          label: 'Reddit',
-          href: 'https://www.reddit.com/r/ButaneNetwork/',
-        },
-        {
-          type: 'link',
-          label: 'Youtube',
-          href: 'https://www.youtube.com/@ButaneAcademy',
-        },
+        
       
       ],
     },
@@ -67,16 +49,6 @@ const sidebars = {
       type: 'category',
       label: 'Ecosystem',
       items: [
-        {
-          type: 'link',
-          label: 'Website',
-          href: 'https://butane.tech/',
-        },
-        {
-          type: 'link',
-          label: 'DAO',
-          href: 'https://commonwealth.im/butane',
-        },
         {
           type: 'link',
           label: 'Swap',
@@ -91,16 +63,6 @@ const sidebars = {
           type: 'link',
           label: 'NFT Marketplace',
           href: 'https://fireflys.art/',
-        },
-        {
-          type: 'link',
-          label: 'AirDrop',
-          href: 'https://airdrop.butane.tech/',
-        },
-        {
-          type: 'link',
-          label: 'Refferal Tool Kit',
-          href: 'https://drive.google.com/drive/folders/1L8l-zSaP9OdZJp3S4tcjkHM4DtkwKMqT?usp=share_link',
         },
       
       ],

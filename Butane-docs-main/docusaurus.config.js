@@ -152,7 +152,7 @@ const config = {
           {
             position: 'right',
             label: 'Services',
-            to: '/develop/api/networks',
+            to: '/develop',
           },
           {
             position: 'right',
