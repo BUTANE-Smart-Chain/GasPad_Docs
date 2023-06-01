@@ -10,11 +10,11 @@ sidebar_position: 3
 - [ ] Website development
 - [ ] Smart contract audit
 - [ ] DAPP development
-- [ ] GasPad token contract
-- [ ] GasPad CLI Release
-- [ ] GasPad token launch
-- [ ] Achieve 100 BBC TVL for GasPad
-- [ ] GasPad Chat AI
+- [ ] $AME token contract
+- [ ] $AME CLI Release
+- [ ] $AME token launch
+- [ ] Achieve 100 BBC TVL for $AME
+- [ ] $AME Chat AI
 - [ ] Bridge Contracts
 - [ ] Telegram Community growth
 - [ ] Giveaways
@@ -49,17 +49,17 @@ sidebar_position: 3
 - [ ] Achieve 50,000 BUSD TVL for stablecoin
 - [ ] NFT line launch
 - [ ] Half of NFTs sold
-- [ ] Launch GasPad Smart Chain
+- [ ] Launch $AME Smart Chain
 - [ ] Launch Swap platform
 - [ ] Launch Bridge
 - [ ] Cosmos Chain integration
-- [ ] GasPad AI Blockchain
+- [ ] $AME AI Blockchain
 - [ ] Achieve 100,000 BUSD in stablecoin TVL
 - [ ] Achieve 250,000 BUSD in stablecoin TVL
 - [ ] Achieve 1,000,000 BUSD in stablecoin TVL
-- [ ] Achieve 500,000 MC for GasPad token
-- [ ] Achieve 1,000,000 MC for GasPad token
-- [ ] Achieve 2,000,000 MC for GasPad token
-- [ ] Release of GasPad CEX
-- [ ] Release GasPad DEBIT CARD
+- [ ] Achieve 500,000 MC for $AME token
+- [ ] Achieve 1,000,000 MC for $AME token
+- [ ] Achieve 2,000,000 MC for $AME token
+- [ ] Release of $AME CEX
+- [ ] Release $AME DEBIT CARD
 - [ ] Launch Miner
