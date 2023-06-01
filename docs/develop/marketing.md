@@ -39,7 +39,7 @@ GasPad can connect you directly to top CEXs: Huobi, Okex, Bybit, Gate, Kucoin, M
 - [MrDevWizard](https://t.me/MrDevWizard)
 
 ## Telegram/Discord Management
-- [MrDevWizard](https://t.me/MrDevWizard) https://t.me/emcryptomm
+- [MrDevWizard](https://t.me/MrDevWizard) 
 
 - [emcryptomm](https://t.me/emcryptomm)
 
