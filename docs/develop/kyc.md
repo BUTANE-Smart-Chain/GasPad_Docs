@@ -60,7 +60,7 @@ GasPad charges $600 per KYC, It may take up to 24 - 48 hours. Please contact our
 
 ## Refund Policy
 
-By means of this post, we provide you with all instructions and requirements to obtain a successful KYC. If you do not agree please do not send payment.```markdown
+By means of this post, we provide you with all instructions and requirements to obtain a successful KYC. If you do not agree please do not send payment.
 By proceeding with the payment of the KYC processing fee, you agree that you shall not be entitled to a refund under any circumstances. 
 
 In particular, we wish to make clear that you are required to be honest with us at all times, and use your real documents, your real legal name, and your real role in the project. Failure to do so will result in the immediate cancellation of your KYC, with no refund given.
